@@ -1,0 +1,5 @@
+# ninja log v6
+1	323	7519753577746758	CMakeFiles/QuickSort.dir/main.cpp.obj	fd2e9238e21147e1
+5	326	7519753577786632	CMakeFiles/QuickSort.dir/QuickSort.cpp.obj	bb43f27a65e199ec
+3	304	7519753753342886	CMakeFiles/QuickSort.dir/QuickSort.cpp.obj	bb43f27a65e199ec
+305	381	7519753756359817	QuickSort.exe	45bd0e9787b03129
