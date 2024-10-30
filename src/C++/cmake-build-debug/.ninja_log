@@ -1,5 +1,11 @@
 # ninja log v6
 1	323	7519753577746758	CMakeFiles/QuickSort.dir/main.cpp.obj	fd2e9238e21147e1
-5	326	7519753577786632	CMakeFiles/QuickSort.dir/QuickSort.cpp.obj	bb43f27a65e199ec
 3	304	7519753753342886	CMakeFiles/QuickSort.dir/QuickSort.cpp.obj	bb43f27a65e199ec
 305	381	7519753756359817	QuickSort.exe	45bd0e9787b03129
+11	303	7519763297712405	CMakeFiles/QuickSort.dir/main.cpp.obj	bf4c7ace9f066c48
+14	306	7519763297752286	CMakeFiles/QuickSort.dir/QuickSort.cpp.obj	f59653d6bb395992
+306	368	7519763300665975	QuickSort.exe	45bd0e9787b03129
+9	278	7519763416961713	CMakeFiles/QuickSort.dir/main.cpp.obj	bf4c7ace9f066c48
+278	345	7519763419644352	QuickSort.exe	45bd0e9787b03129
+9	275	7519763496245844	CMakeFiles/QuickSort.dir/main.cpp.obj	bf4c7ace9f066c48
+275	339	7519763498904021	QuickSort.exe	45bd0e9787b03129

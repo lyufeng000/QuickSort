@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Code Files/QuickSort/src/cmake-build-debug"
+			"value" : "d:/Code Files/QuickSort/src/C++/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Code Files/QuickSort/src/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/Code Files/QuickSort/src/C++/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Code Files/QuickSort/src"
+			"value" : "D:/Code Files/QuickSort/src/C++"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Project"
+			"value" : "C:/Program Files (x86)/QuickSort"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1270,42 +1270,6 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Project_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "D:/Code Files/QuickSort/src/cmake-build-debug"
-		},
-		{
-			"name" : "Project_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "Project_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "D:/Code Files/QuickSort/src"
-		},
-		{
 			"name" : "QuickSort_BINARY_DIR",
 			"properties" : 
 			[
@@ -1315,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Code Files/QuickSort/src/cmake-build-debug"
+			"value" : "D:/Code Files/QuickSort/src/C++/cmake-build-debug"
 		},
 		{
 			"name" : "QuickSort_IS_TOP_LEVEL",
@@ -1339,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Code Files/QuickSort/src"
+			"value" : "D:/Code Files/QuickSort/src/C++"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

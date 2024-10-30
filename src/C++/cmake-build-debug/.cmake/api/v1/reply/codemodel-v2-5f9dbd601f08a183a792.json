@@ -45,8 +45,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Code Files/QuickSort/src/cmake-build-debug",
-		"source" : "D:/Code Files/QuickSort/src"
+		"build" : "D:/Code Files/QuickSort/src/C++/cmake-build-debug",
+		"source" : "D:/Code Files/QuickSort/src/C++"
 	},
 	"version" : 
 	{

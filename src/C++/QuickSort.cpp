@@ -1,8 +1,8 @@
 #include "QuickSort.h"
 #include <iostream>
 
-const bool QuickSort::asc = true;   // 定义静态常量升序
-const bool QuickSort::desc = false;  // 定义静态常量降序
+//const bool QuickSort::asc = true;   // 定义静态常量升序
+//const bool QuickSort::desc = false;  // 定义静态常量降序
 
 // 默认构造函数
 QuickSort::QuickSort() : order(true) {}
